@@ -2,6 +2,6 @@ package org.examplethasni.tests;
 
 public class Sample {
     public static void main(String[] args) {
-        System.out.println("Helloworld");
+        System.out.println("Hello  world");
     }
 }
